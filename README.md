@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-#### I'm a Artificial Intelligence Researcher working in Brazil.
+#### I'm an Artificial Intelligence Researcher working in Brazil.
